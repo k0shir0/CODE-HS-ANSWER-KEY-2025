@@ -1,0 +1,12 @@
+move();
+while(colorIs("yellow")){
+    move();
+    if(frontIsBlocked()){
+        if(leftIsBlocked()){
+            turnRight();
+        }else(turnLeft())
+    }
+    
+    
+    
+}

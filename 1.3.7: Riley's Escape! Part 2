@@ -1,0 +1,32 @@
+function c() {
+    move();
+}
+c();
+turnRight();
+c();
+c();
+c();
+c();
+c();
+c();
+turnLeft();
+c();
+paint("orange");
+c();
+paint("orange");
+c();
+turnLeft();
+c();
+c();
+c();
+turnRight();
+c();
+c();
+paint("orange");
+c();
+turnRight();
+c();
+c();
+c();
+turnLeft();
+c();

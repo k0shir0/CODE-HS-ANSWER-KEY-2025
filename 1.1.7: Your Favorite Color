@@ -1,0 +1,10 @@
+//Move Karel to your favorite color
+
+turnLeft();
+move();
+turnRight();
+move();
+move();
+move();
+move();
+//Have Karel walk to the end of the row

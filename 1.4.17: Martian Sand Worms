@@ -1,0 +1,40 @@
+function krk(){
+    if(colorIs(Color.black)){
+        paint(Color.purple);
+        move();
+    }else{
+        move();
+    }
+}
+
+while(frontIsClear()){
+    krk();
+}
+turnLeft();
+krk();
+turnLeft();
+
+while(frontIsClear()){
+    krk();
+}
+turnRight();
+krk();
+turnRight();
+
+while(frontIsClear()){
+    krk();
+}
+turnLeft();
+krk();
+turnLeft();
+
+while(frontIsClear()){
+    krk();
+}
+turnRight();
+krk();
+turnRight();
+
+while(frontIsClear()){
+    krk();
+}

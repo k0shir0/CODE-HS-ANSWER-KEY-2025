@@ -1,0 +1,92 @@
+//this one is a little scuffed, and is subject to improvement 
+
+
+
+while(ballsPresent()){
+    takeBall();
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+turnLeft();
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+turnLeft();
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+turnLeft();
+move();
+turnLeft();
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+move();
+if(colorIs("red")){
+    paint("cyan");
+}
+turnLeft();
+move();
+turnRight();

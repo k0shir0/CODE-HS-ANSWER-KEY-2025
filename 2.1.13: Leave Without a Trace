@@ -1,0 +1,11 @@
+while(frontIsClear()){
+    if(colorIs(Color.purple)){
+        if(ballsPresent()){
+            takeBall();
+            paint(Color.orange);
+        }
+    }
+    move();
+
+    
+}

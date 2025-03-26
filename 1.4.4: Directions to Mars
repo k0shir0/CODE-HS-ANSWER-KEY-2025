@@ -1,0 +1,31 @@
+
+function c() {
+    move();
+}
+function tl() {
+    turnLeft();
+}
+
+function tr() {
+    turnRight();
+}
+function pc() {
+    paint(Color.cyan);
+
+}
+function pb() {
+    paint("blue");
+}
+
+function pw() {
+    paint("white");
+}
+function pr() {
+    paint("red");
+}
+if(facingEast()) {
+    tl();
+}
+if(facingNorth()){
+    move();
+}

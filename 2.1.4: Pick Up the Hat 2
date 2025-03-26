@@ -1,0 +1,6 @@
+while(frontIsClear()){
+    move();
+    if(colorIs(Color.orange)){
+        paint(Color.blue)
+    }
+}

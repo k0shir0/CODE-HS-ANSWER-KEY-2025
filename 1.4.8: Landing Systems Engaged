@@ -1,0 +1,26 @@
+while(frontIsClear()){
+    move();
+    if(colorIs("yellow")){
+        paint("black");
+    }
+    if(colorIs("red")){
+        paint("green");
+    }
+    if(colorIs("blue")){
+        paint("black");
+    }
+    if(colorIs("red")){
+        paint("green");
+    }
+    if(colorIs(Color.purple)){
+        paint("black");
+    }
+    if(colorIs("cyan")){
+        paint("black");
+    }
+    if(colorIs(Color.orange)){
+        paint("black");
+    }else();
+    
+    
+}

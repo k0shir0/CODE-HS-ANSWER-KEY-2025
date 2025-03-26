@@ -1,0 +1,34 @@
+function c() {
+    move();
+}
+function tl() {
+    turnLeft();
+}
+function tr() {
+    turnRight();
+}
+turnLeft();
+c();
+turnRight();
+c();
+paint("green");
+c();
+c();
+tl();
+c();
+paint("green");
+c();
+c();
+tr();
+c();
+c();
+paint("green");
+c();
+c();
+paint("green");
+c();
+tl();
+c();
+tr();
+c();
+paint("green");

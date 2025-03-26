@@ -1,0 +1,80 @@
+
+move();
+while(frontIsClear()){
+    
+    if(colorIs(Color.green)){
+        paint(Color.yellow);
+        move();
+    } else if(colorIs(Color.purple)){
+        paint(Color.yellow);
+        move();
+    }else{
+        paint(Color.grey);
+        move();
+    }
+}
+turnLeft();
+move(); 
+turnLeft();
+move();
+while(frontIsClear()){
+    
+    if(colorIs(Color.green)){
+        paint(Color.yellow);
+        move();
+    } else if(colorIs(Color.purple)){
+        paint(Color.yellow);
+        move();
+    }else{
+        paint(Color.grey);
+        move();
+    }
+}
+turnRight();
+move();
+turnRight();
+while(frontIsClear()){
+    
+    if(colorIs(Color.green)){
+        paint(Color.yellow);
+        move();
+    } else if(colorIs(Color.purple)){
+        paint(Color.yellow);
+        move();
+    }else{
+        paint(Color.grey);
+        move();
+    }
+}
+turnLeft();
+move();
+turnLeft();
+while(frontIsClear()){
+    
+    if(colorIs(Color.green)){
+        paint(Color.yellow);
+        move();
+    } else if(colorIs(Color.purple)){
+        paint(Color.yellow);
+        move();
+    }else{
+        paint(Color.grey);
+        move();
+    }
+}
+turnRight();
+move();
+turnRight();
+while(frontIsClear()){
+    
+    if(colorIs(Color.green)){
+        paint(Color.yellow);
+        move();
+    } else if(colorIs(Color.purple)){
+        paint(Color.yellow);
+        move();
+    }else{
+        paint(Color.grey);
+        move();
+    }
+}

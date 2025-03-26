@@ -1,0 +1,10 @@
+while(colorIs(Color.red)){
+    move();
+}
+turnRight();
+
+move();
+while(colorIs(Color.red)){
+    move();
+}
+turnLeft();

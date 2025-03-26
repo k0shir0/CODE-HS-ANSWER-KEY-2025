@@ -1,0 +1,17 @@
+// Program Karel to build a black wall around the bucket of tennis balls.
+paint("black");
+turnRight();
+turnRight();
+turnRight();
+move();
+paint("black");
+turnRight();
+move();
+paint("black");
+move();
+paint("black");
+turnRight();
+move();
+paint("black");
+turnLeft();
+move();

@@ -1,0 +1,35 @@
+function c() {
+    move();
+}
+function tl() {
+    turnLeft();
+}
+function tr() {
+    turnRight();
+}
+function pr() {
+    paint("red");
+}
+
+c();
+c();
+pr();
+tl();
+c();
+tr();
+c();
+pr();
+tl();
+c();
+tr();
+c();
+pr();
+tl();
+c();
+tr();
+c();
+pr();
+tl();
+c();
+tr();
+c();

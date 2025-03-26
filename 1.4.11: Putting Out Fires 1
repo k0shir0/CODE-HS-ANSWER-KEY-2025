@@ -1,0 +1,7 @@
+while (frontIsClear()) {
+    move();
+
+    while (colorIs("red")){
+        paint("cyan");
+    }
+}

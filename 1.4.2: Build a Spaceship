@@ -1,0 +1,71 @@
+function c() {
+    move();
+}
+function tl() {
+    turnLeft();
+}
+
+function tr() {
+    turnRight();
+}
+function pc() {
+    paint(Color.cyan);
+
+}
+function pb() {
+    paint("blue");
+}
+
+function pw() {
+    paint("white");
+}
+function pr() {
+    paint("red");
+}
+c();
+c();
+c();
+c();
+tl();
+c();
+c();
+c();
+c();
+pw();
+tr();
+c();
+pw();
+tl();
+c();
+pw();
+c();
+pw();
+tl();
+c();
+pw();
+c();
+pw();
+tl();
+c();
+pw();
+tl();
+c();
+pc();
+tl();
+c();
+c();
+pr();
+tl();
+c();
+pr();
+turnAround();
+c();
+c();
+pr();
+turnAround();
+c();
+tr();
+c();
+pr();
+turnAround();
+tl();

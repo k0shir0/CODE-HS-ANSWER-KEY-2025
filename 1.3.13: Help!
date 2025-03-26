@@ -1,0 +1,54 @@
+function c() {
+    move();
+}
+function tl() {
+    turnLeft();
+}
+function tr() {
+    turnRight();
+}
+function pr() {
+    paint("purple");
+}
+c();
+c();
+pr();
+c();
+c();
+pr();
+tl();
+c();
+pr();
+tl();
+c();
+pr();
+c();
+pr();
+tl();
+tl();
+tl();
+c();
+pr();
+c();
+pr();
+c();
+pr();
+tr();
+c();
+c();
+pr();
+tr();
+c();
+pr();
+c();
+pr();
+c();
+pr();
+tr();
+c();
+tr();
+c();
+c();
+pr();
+c();
+tr();

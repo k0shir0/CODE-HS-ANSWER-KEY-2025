@@ -1,0 +1,15 @@
+while(frontIsClear()){
+    if(colorIs(Color.grey)){
+        paint(Color.purple);
+        move();
+    } else if(colorIs(Color.purple)){
+        paint(Color.black);
+        move();
+    }  else{
+          move();
+        turnLeft();
+        turnRight();
+    }
+}
+
+paint(Color.black);

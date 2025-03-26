@@ -1,0 +1,16 @@
+if(frontIsClear()){
+    paint("blue")
+    move();
+}
+if(frontIsClear()){
+    paint("blue")
+    move();
+}
+if(frontIsClear()){
+    paint("blue")
+    move();
+}
+if(frontIsClear()){
+    paint("blue")
+    move();
+}

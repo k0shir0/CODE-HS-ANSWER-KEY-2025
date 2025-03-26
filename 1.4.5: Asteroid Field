@@ -1,0 +1,44 @@
+
+function c() {
+    move();
+}
+function tl() {
+    turnLeft();
+}
+
+function tr() {
+    turnRight();
+}
+function pc() {
+    paint(Color.cyan);
+
+}
+function pb() {
+    paint("blue");
+}
+
+function pw() {
+    paint("white");
+}
+function pr() {
+    paint("red");
+}
+
+if(colorIs("orange")) {
+    paint("black");
+}
+if(frontIsClear()) {
+    c();
+}
+if(colorIs("orange")) {
+    paint("black");
+}
+if(frontIsClear()) {
+    c();
+}
+if(colorIs("orange")) {
+    paint("black");
+}
+if(frontIsClear()) {
+    c();
+}

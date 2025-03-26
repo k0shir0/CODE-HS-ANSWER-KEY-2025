@@ -1,0 +1,91 @@
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");    
+}
+
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");    
+}
+
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");    
+}
+
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black") ;   
+}
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");    
+}
+turnLeft();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");    
+}
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");    
+}
+move();
+turnLeft();
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");   
+}
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");
+}
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black")  ;  
+}
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black") ;   
+}
+turnLeft();
+move();
+turnLeft();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black") ;   
+}
+move();
+if(colorIs("orange")){
+    paint("black");
+} else{
+    paint("black");    
+}
+move();
+move();
+move();
+turnLeft();
+move();
+
+turnRight();
